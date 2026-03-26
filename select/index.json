@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "base_track": "RADIO GALAXY",
+  "base_artist": "FRUITS ZIPPER",
+  "createdAt": "2026-03-26T04:52:51.576704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER/YUC'e",
+      "has_synced": true,
+      "path": "select/01_RADIO_GALAXY_FRUITS_ZIPPER_YUC'e.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RADIO GALAXY (Instrumental)",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/02_RADIO_GALAXY_(Instrumental)_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/03_RADIO_GALAXY_FRUITS_ZIPPER.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER & YUC'e",
+      "has_synced": true,
+      "path": "select/04_RADIO_GALAXY_FRUITS_ZIPPER_&_YUC'e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/05_RADIO_GALAXY_FRUITS_ZIPPER.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn it up (Radio Galaxy)",
+      "artist": "R.Kelly feat. Wysin and Yandell",
+      "has_synced": true,
+      "path": "select/06_Burn_it_up_(Radio_Galaxy)_R.Kelly_feat._Wysin_and_Yandell.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "WELCOME TO RADIO GALAXY.",
+      "artist": "B JYUN.",
+      "has_synced": true,
+      "path": "select/07_WELCOME_TO_RADIO_GALAXY._B_JYUN..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": false,
+      "path": "select/pl_01_RADIO_GALAXY_FRUITS_ZIPPER.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "RADIO GALAXY",
+      "artist": "FRUITS ZIPPER",
+      "has_synced": true,
+      "path": "select/localdb_01_RADIO_GALAXY_FRUITS_ZIPPER.lrc",
+      "repo_name": "JdEYp9gNTd0"
+    }
+  ]
+}
